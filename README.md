@@ -1,2 +1,2 @@
 # Excel
-This contains my excel spreadsheet portfolio 
+Data Analyst Excel Spreadsheet Portfolio Projects 
